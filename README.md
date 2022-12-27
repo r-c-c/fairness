@@ -5,7 +5,6 @@ Analyze fairness of ML algorith against some sensitive data. Also it tries to mi
 # Business Problem
 
 <br>• We created ML classification problem that predicts whether a person is stopped by police.
-
 <br>• Machine learning models can sometimes amplify existing biases that are present in the data they are trained on, leading to unfair and discriminatory outcomes. 
 This can be particularly problematic in the case of sensitive attributes such as gender and race, as it can result in discrimination against certain groups of people.
 <br>• It is aimed to ensure that ML models are fair and unbiased.
